@@ -1,4 +1,4 @@
-# Speech Assistant App using Google Recognition in Python
+# Speech Assistant App Using Google Recognition in Python
 
 The idea for this script was inspired by the following video: https://www.youtube.com/watch?v=x8xjj6cR9Nc&t=122s
 
