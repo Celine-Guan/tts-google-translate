@@ -4,7 +4,7 @@ The idea for this script was inspired by the following video: https://www.youtub
 
 I built a simple speech assistant app which speaking Mandarin Chinese using the speech regonition library and Google's text-to-speech API 
 
-The App is called Celine. She can anwser your questions in Mandarin Chinese, for instance, what's your name? What time is it? Also, she can help you to Google the informations and find an address using Google Maps. 
+The App is called Celine. She can anwser your questions in Mandarin Chinese, for instance, what's your name? What time is it? Also, she can help you to Google the information and find an address using Google Maps. 
 
 ## Here are the voice commends in Mandarin Chinese: 
 - 你叫什么名字
